@@ -51,7 +51,6 @@
     <designationCategory>Furniture</designationCategory>
     <staticSunShadowHeight>0.10</staticSunShadowHeight>
     <rotatable>false</rotatable>
-    <designationHotKey>L</designationHotKey>
     <placeWorkers>
       <li>PlaceWorker_NotUnderRoof</li>
     </placeWorkers>

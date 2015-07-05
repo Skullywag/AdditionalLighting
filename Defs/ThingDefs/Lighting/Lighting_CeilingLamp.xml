@@ -56,7 +56,6 @@
     </comps>
     <designationCategory>Furniture</designationCategory>
     <rotatable>false</rotatable>
-    <designationHotKey>L</designationHotKey>
   </ThingDef>
 
 </Buildings>
