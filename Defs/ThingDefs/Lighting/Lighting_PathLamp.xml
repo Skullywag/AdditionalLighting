@@ -47,6 +47,9 @@
         <glowRadius>5</glowRadius>
         <glowColor>(217,217,208,0)</glowColor>
       </li>
+      <li Class="CommunityCoreLibrary.CompProperties_ColoredLight">
+        <compClass>CommunityCoreLibrary.CompColoredLight</compClass>
+      </li>
     </comps>
     <designationCategory>Furniture</designationCategory>
     <staticSunShadowHeight>0.10</staticSunShadowHeight>

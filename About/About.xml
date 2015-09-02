@@ -2,6 +2,8 @@
 <ModMetaData>
 	<name>AdditionalLighting</name>
 	<author>Skullywag</author>
-	<targetVersion>Alpha 11</targetVersion>
-	<description>Adds some additonal light sources.</description>
+	<targetVersion>Alpha 12</targetVersion>
+	<description>Adds some additonal light sources.
+  
+  Requires CCL for coloured Lights.</description>
 </ModMetaData>
