@@ -31,7 +31,7 @@
       <MaxHitPoints>10</MaxHitPoints>
       <WorkToMake>50</WorkToMake>
       <Flammability>1.0</Flammability>
-      <Beauty>-5</Beauty>
+      <Beauty>5</Beauty>
     </statBases>
     <selectable>true</selectable>
     <description>Small light with built in solar panel that lights an area.</description>

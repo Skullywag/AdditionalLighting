@@ -31,7 +31,7 @@
       <MaxHitPoints>50</MaxHitPoints>
       <WorkToMake>115</WorkToMake>
       <Flammability>1.0</Flammability>
-      <Beauty>-5</Beauty>
+      <Beauty>5</Beauty>
     </statBases>
     <selectable>true</selectable>
     <description>Ceiling light that lights an area.</description>
