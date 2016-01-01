@@ -22,10 +22,12 @@
     <thingClass>Building</thingClass>
     <category>Building</category>
     <graphicData>
-      <texPath>Things/Building/WallLight</texPath>
+      <texPath>Things/Building/WallLight1</texPath>
       <graphicClass>Graphic_Single</graphicClass>
+      <drawsize>1.4,1.4</drawsize>
     </graphicData>
-    <altitudeLayer>BuildingTall</altitudeLayer>
+    <uiIconPath>Things/Building/WallLightUI</uiIconPath>
+    <altitudeLayer>PawnUnused</altitudeLayer>
     <passability>PassThroughOnly</passability>
     <statBases>
       <MaxHitPoints>100</MaxHitPoints>
@@ -57,8 +59,7 @@
         <compClass>CommunityCoreLibrary.CompColoredLight</compClass>
       </li>
     </comps>
-    <designationCategory>Furniture</designationCategory>
-    <staticSunShadowHeight>0.10</staticSunShadowHeight>
+    <designationCategory>Furniture</designationCategory>    
     <rotatable>true</rotatable>
   </ThingDef>
 

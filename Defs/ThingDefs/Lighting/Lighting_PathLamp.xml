@@ -19,7 +19,7 @@
   <ThingDef ParentName="BuildingBase">
     <defName>Lighting_PathLamp</defName>
     <label>Path light</label>
-    <thingClass>Building</thingClass>
+    <thingClass>AdditionalLighting.Building_PathLamp</thingClass>
     <category>Building</category>
     <graphicData>
       <texPath>Things/Building/LampPath</texPath>
@@ -47,16 +47,13 @@
         <glowRadius>5</glowRadius>
         <glowColor>(217,217,208,0)</glowColor>
       </li>
-      <li Class="CommunityCoreLibrary.CompProperties_ColoredLight">
-        <compClass>CommunityCoreLibrary.CompColoredLight</compClass>
-      </li>
     </comps>
     <designationCategory>Furniture</designationCategory>
-    <staticSunShadowHeight>0.10</staticSunShadowHeight>
     <rotatable>false</rotatable>
     <placeWorkers>
       <li>PlaceWorker_NotUnderRoof</li>
     </placeWorkers>
+    <tickerType>Rare</tickerType>
   </ThingDef>
 
 </Buildings>

@@ -1,0 +1,10 @@
+C:\Users\mjsku\Desktop\RimWorldAlpha12dWin\RimWorld914Win\Mods\AdditionalLighting\Source\AdditionalLighting\bin\Debug\AddiitionalLighting.dll
+C:\Users\mjsku\Desktop\RimWorldAlpha12dWin\RimWorld914Win\Mods\AdditionalLighting\Source\AdditionalLighting\bin\Debug\AddiitionalLighting.pdb
+C:\Users\mjsku\Desktop\RimWorldAlpha12dWin\RimWorld914Win\Mods\AdditionalLighting\Source\AdditionalLighting\obj\Debug\AdditionalLighting.csprojResolveAssemblyReference.cache
+C:\Users\mjsku\Desktop\RimWorldAlpha12dWin\RimWorld914Win\Mods\AdditionalLighting\Source\AdditionalLighting\obj\Debug\AddiitionalLighting.dll
+C:\Users\mjsku\Desktop\RimWorldAlpha12dWin\RimWorld914Win\Mods\AdditionalLighting\Source\AdditionalLighting\obj\Debug\AddiitionalLighting.pdb
+C:\Users\mjsku\Desktop\New folder\RimWorldAlpha12dWin\RimWorld914Win\Mods\AdditionalLighting\Source\AdditionalLighting\bin\Debug\AddiitionalLighting.dll
+C:\Users\mjsku\Desktop\New folder\RimWorldAlpha12dWin\RimWorld914Win\Mods\AdditionalLighting\Source\AdditionalLighting\bin\Debug\AddiitionalLighting.pdb
+C:\Users\mjsku\Desktop\New folder\RimWorldAlpha12dWin\RimWorld914Win\Mods\AdditionalLighting\Source\AdditionalLighting\obj\Debug\AddiitionalLighting.dll
+C:\Users\mjsku\Desktop\New folder\RimWorldAlpha12dWin\RimWorld914Win\Mods\AdditionalLighting\Source\AdditionalLighting\obj\Debug\AddiitionalLighting.pdb
+C:\Users\mjsku\Desktop\New folder\RimWorldAlpha12dWin\RimWorld914Win\Mods\AdditionalLighting\Source\AdditionalLighting\obj\Debug\AdditionalLighting.csprojResolveAssemblyReference.cache
