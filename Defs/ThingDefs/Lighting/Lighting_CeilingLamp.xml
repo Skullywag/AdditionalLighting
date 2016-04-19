@@ -42,14 +42,11 @@
     <soundImpactDefault>BulletImpactMetal</soundImpactDefault>
     <leaveResourcesWhenKilled>false</leaveResourcesWhenKilled>
     <comps>
-      <li>
+      <li Class="CompProperties_Power">
         <compClass>CompPowerTrader</compClass>
         <basePowerConsumption>150</basePowerConsumption>
-        <soundPowerOn>PowerOnSmall</soundPowerOn>
-        <soundPowerOff>PowerOffSmall</soundPowerOff>
       </li>
-      <li>
-        <compClass>CompGlower</compClass>
+      <li Class="CompProperties_Glower">
         <glowRadius>12</glowRadius>
         <glowColor>(217,217,208,0)</glowColor>
       </li>

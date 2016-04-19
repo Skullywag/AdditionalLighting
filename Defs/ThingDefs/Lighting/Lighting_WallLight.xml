@@ -1,19 +1,6 @@
 <?xml version="1.0" encoding="utf-8" ?>
 <Buildings>
 
-
-  <ThingDef Name="BuildingBase" Abstract="True">
-    <category>Building</category>
-    <thingClass>Building</thingClass>
-    <soundImpactDefault>BulletImpactMetal</soundImpactDefault>
-    <selectable>true</selectable>
-    <drawerType>MapMeshAndRealTime</drawerType>
-    <terrainAffordanceNeeded>Light</terrainAffordanceNeeded>
-    <repairEffect>Repair</repairEffect>
-    <leaveResourcesWhenKilled>true</leaveResourcesWhenKilled>
-    <filthLeaving>BuildingRubble</filthLeaving>
-  </ThingDef>
-
   <!-- ======================== Lighting ======================= -->
 
   <ThingDef ParentName="BuildingBase">
@@ -44,14 +31,11 @@
     <soundImpactDefault>BulletImpactMetal</soundImpactDefault>
     <leaveResourcesWhenKilled>false</leaveResourcesWhenKilled>
     <comps>
-      <li>
+      <li Class="CompProperties_Power">
         <compClass>CompPowerTrader</compClass>
         <basePowerConsumption>50</basePowerConsumption>
-        <soundPowerOn>PowerOnSmall</soundPowerOn>
-        <soundPowerOff>PowerOffSmall</soundPowerOff>
       </li>
-      <li>
-        <compClass>CompGlower</compClass>
+      <li Class="CompProperties_Glower">
         <glowRadius>8</glowRadius>
         <glowColor>(217,217,208,0)</glowColor>
       </li>
@@ -59,6 +43,10 @@
         <compClass>CommunityCoreLibrary.CompColoredLight</compClass>
       </li>
     </comps>
+    <building>
+      <canPlaceOverWall>true</canPlaceOverWall>
+      <isEdifice>false</isEdifice>
+    </building>
     <designationCategory>Furniture</designationCategory>    
     <rotatable>true</rotatable>
   </ThingDef>

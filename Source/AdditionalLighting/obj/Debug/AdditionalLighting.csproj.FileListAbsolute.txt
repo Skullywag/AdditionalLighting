@@ -8,3 +8,18 @@ C:\Users\mjsku\Desktop\New folder\RimWorldAlpha12dWin\RimWorld914Win\Mods\Additi
 C:\Users\mjsku\Desktop\New folder\RimWorldAlpha12dWin\RimWorld914Win\Mods\AdditionalLighting\Source\AdditionalLighting\obj\Debug\AddiitionalLighting.dll
 C:\Users\mjsku\Desktop\New folder\RimWorldAlpha12dWin\RimWorld914Win\Mods\AdditionalLighting\Source\AdditionalLighting\obj\Debug\AddiitionalLighting.pdb
 C:\Users\mjsku\Desktop\New folder\RimWorldAlpha12dWin\RimWorld914Win\Mods\AdditionalLighting\Source\AdditionalLighting\obj\Debug\AdditionalLighting.csprojResolveAssemblyReference.cache
+C:\Users\mjsku\Desktop\RimWorld1117WinDev\Mods\AdditionalLighting\Source\AdditionalLighting\bin\Debug\AddiitionalLighting.dll
+C:\Users\mjsku\Desktop\RimWorld1117WinDev\Mods\AdditionalLighting\Source\AdditionalLighting\bin\Debug\AddiitionalLighting.pdb
+C:\Users\mjsku\Desktop\RimWorld1117WinDev\Mods\AdditionalLighting\Source\AdditionalLighting\obj\Debug\AdditionalLighting.csprojResolveAssemblyReference.cache
+C:\Users\mjsku\Desktop\RimWorld1117WinDev\Mods\AdditionalLighting\Source\AdditionalLighting\obj\Debug\AddiitionalLighting.dll
+C:\Users\mjsku\Desktop\RimWorld1117WinDev\Mods\AdditionalLighting\Source\AdditionalLighting\obj\Debug\AddiitionalLighting.pdb
+C:\Users\mjsku\Desktop\RimWorld1131WinDev\Mods\AdditionalLighting\Source\AdditionalLighting\bin\Debug\AddiitionalLighting.dll
+C:\Users\mjsku\Desktop\RimWorld1131WinDev\Mods\AdditionalLighting\Source\AdditionalLighting\bin\Debug\AddiitionalLighting.pdb
+C:\Users\mjsku\Desktop\RimWorld1131WinDev\Mods\AdditionalLighting\Source\AdditionalLighting\obj\Debug\AdditionalLighting.csprojResolveAssemblyReference.cache
+C:\Users\mjsku\Desktop\RimWorld1131WinDev\Mods\AdditionalLighting\Source\AdditionalLighting\obj\Debug\AddiitionalLighting.dll
+C:\Users\mjsku\Desktop\RimWorld1131WinDev\Mods\AdditionalLighting\Source\AdditionalLighting\obj\Debug\AddiitionalLighting.pdb
+C:\Users\mjsku\Desktop\RimWorldAlpha13Win\RimWorld1135Win\Mods\AdditionalLighting\Source\AdditionalLighting\bin\Debug\AddiitionalLighting.dll
+C:\Users\mjsku\Desktop\RimWorldAlpha13Win\RimWorld1135Win\Mods\AdditionalLighting\Source\AdditionalLighting\bin\Debug\AddiitionalLighting.pdb
+C:\Users\mjsku\Desktop\RimWorldAlpha13Win\RimWorld1135Win\Mods\AdditionalLighting\Source\AdditionalLighting\obj\Debug\AdditionalLighting.csprojResolveAssemblyReference.cache
+C:\Users\mjsku\Desktop\RimWorldAlpha13Win\RimWorld1135Win\Mods\AdditionalLighting\Source\AdditionalLighting\obj\Debug\AddiitionalLighting.dll
+C:\Users\mjsku\Desktop\RimWorldAlpha13Win\RimWorld1135Win\Mods\AdditionalLighting\Source\AdditionalLighting\obj\Debug\AddiitionalLighting.pdb

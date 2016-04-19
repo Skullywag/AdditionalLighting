@@ -1,19 +1,6 @@
 <?xml version="1.0" encoding="utf-8" ?>
 <Buildings>
 
-
-  <ThingDef Name="BuildingBase" Abstract="True">
-    <category>Building</category>
-    <thingClass>Building</thingClass>
-    <soundImpactDefault>BulletImpactMetal</soundImpactDefault>
-    <selectable>true</selectable>
-    <drawerType>MapMeshAndRealTime</drawerType>
-    <terrainAffordanceNeeded>Light</terrainAffordanceNeeded>
-    <repairEffect>Repair</repairEffect>
-    <leaveResourcesWhenKilled>true</leaveResourcesWhenKilled>
-    <filthLeaving>BuildingRubble</filthLeaving>
-  </ThingDef>
-
   <!-- ======================== Lighting ======================= -->
 
   <ThingDef ParentName="BuildingBase">
@@ -42,8 +29,7 @@
     <soundImpactDefault>BulletImpactMetal</soundImpactDefault>
     <leaveResourcesWhenKilled>false</leaveResourcesWhenKilled>
     <comps>
-      <li>
-        <compClass>CompGlower</compClass>
+      <li Class="CompProperties_Glower">
         <glowRadius>5</glowRadius>
         <glowColor>(217,217,208,0)</glowColor>
       </li>
