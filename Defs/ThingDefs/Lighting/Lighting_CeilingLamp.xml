@@ -54,6 +54,9 @@
         <compClass>CommunityCoreLibrary.CompColoredLight</compClass>
       </li>
     </comps>
+    <building>
+      <isEdifice>false</isEdifice>
+    </building>
     <designationCategory>Furniture</designationCategory>
     <rotatable>false</rotatable>
   </ThingDef>
