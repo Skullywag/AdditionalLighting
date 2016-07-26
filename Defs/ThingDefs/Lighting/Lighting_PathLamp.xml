@@ -12,7 +12,7 @@
       <texPath>Things/Building/LampPath</texPath>
       <graphicClass>Graphic_Single</graphicClass>
     </graphicData>
-    <altitudeLayer>BuildingTall</altitudeLayer>
+    <altitudeLayer>Building</altitudeLayer>
     <passability>PassThroughOnly</passability>
     <statBases>
       <MaxHitPoints>10</MaxHitPoints>
@@ -32,6 +32,9 @@
       <li Class="CompProperties_Glower">
         <glowRadius>5</glowRadius>
         <glowColor>(217,217,208,0)</glowColor>
+      </li>
+      <li Class="CommunityCoreLibrary.CompProperties_ColoredLight">
+        <compClass>CommunityCoreLibrary.CompColoredLight</compClass>
       </li>
     </comps>
     <designationCategory>Furniture</designationCategory>

@@ -23,3 +23,13 @@ C:\Users\mjsku\Desktop\RimWorldAlpha13Win\RimWorld1135Win\Mods\AdditionalLightin
 C:\Users\mjsku\Desktop\RimWorldAlpha13Win\RimWorld1135Win\Mods\AdditionalLighting\Source\AdditionalLighting\obj\Debug\AdditionalLighting.csprojResolveAssemblyReference.cache
 C:\Users\mjsku\Desktop\RimWorldAlpha13Win\RimWorld1135Win\Mods\AdditionalLighting\Source\AdditionalLighting\obj\Debug\AddiitionalLighting.dll
 C:\Users\mjsku\Desktop\RimWorldAlpha13Win\RimWorld1135Win\Mods\AdditionalLighting\Source\AdditionalLighting\obj\Debug\AddiitionalLighting.pdb
+C:\Users\mjsku\Desktop\RimWorld1220WinDev\Mods\AdditionalLighting\Source\AdditionalLighting\bin\Debug\AddiitionalLighting.dll
+C:\Users\mjsku\Desktop\RimWorld1220WinDev\Mods\AdditionalLighting\Source\AdditionalLighting\bin\Debug\AddiitionalLighting.pdb
+C:\Users\mjsku\Desktop\RimWorld1220WinDev\Mods\AdditionalLighting\Source\AdditionalLighting\bin\Debug\Assembly-CSharp.dll
+C:\Users\mjsku\Desktop\RimWorld1220WinDev\Mods\AdditionalLighting\Source\AdditionalLighting\bin\Debug\UnityEngine.dll
+C:\Users\mjsku\Desktop\RimWorld1220WinDev\Mods\AdditionalLighting\Source\AdditionalLighting\bin\Debug\Assembly-CSharp-firstpass.dll
+C:\Users\mjsku\Desktop\RimWorld1220WinDev\Mods\AdditionalLighting\Source\AdditionalLighting\bin\Debug\NAudio.dll
+C:\Users\mjsku\Desktop\RimWorld1220WinDev\Mods\AdditionalLighting\Source\AdditionalLighting\bin\Debug\NVorbis.dll
+C:\Users\mjsku\Desktop\RimWorld1220WinDev\Mods\AdditionalLighting\Source\AdditionalLighting\obj\Debug\AdditionalLighting.csprojResolveAssemblyReference.cache
+C:\Users\mjsku\Desktop\RimWorld1220WinDev\Mods\AdditionalLighting\Source\AdditionalLighting\obj\Debug\AddiitionalLighting.dll
+C:\Users\mjsku\Desktop\RimWorld1220WinDev\Mods\AdditionalLighting\Source\AdditionalLighting\obj\Debug\AddiitionalLighting.pdb

@@ -9,7 +9,7 @@
     <thingClass>Building</thingClass>
     <category>Building</category>
     <graphicData>
-      <texPath>Things/Building/WallLight1</texPath>
+      <texPath>Things/Building/WallLight</texPath>
       <graphicClass>Graphic_Single</graphicClass>
       <drawsize>1.4,1.4</drawsize>
     </graphicData>
