@@ -33,3 +33,14 @@ C:\Users\mjsku\Desktop\RimWorld1220WinDev\Mods\AdditionalLighting\Source\Additio
 C:\Users\mjsku\Desktop\RimWorld1220WinDev\Mods\AdditionalLighting\Source\AdditionalLighting\obj\Debug\AdditionalLighting.csprojResolveAssemblyReference.cache
 C:\Users\mjsku\Desktop\RimWorld1220WinDev\Mods\AdditionalLighting\Source\AdditionalLighting\obj\Debug\AddiitionalLighting.dll
 C:\Users\mjsku\Desktop\RimWorld1220WinDev\Mods\AdditionalLighting\Source\AdditionalLighting\obj\Debug\AddiitionalLighting.pdb
+C:\Users\mjsku\Desktop\RimWorldAlpha14eWin\RimWorld1249Win\Mods\AdditionalLighting\Source\AdditionalLighting\bin\Debug\AddiitionalLighting.dll
+C:\Users\mjsku\Desktop\RimWorldAlpha14eWin\RimWorld1249Win\Mods\AdditionalLighting\Source\AdditionalLighting\bin\Debug\AddiitionalLighting.pdb
+C:\Users\mjsku\Desktop\RimWorldAlpha14eWin\RimWorld1249Win\Mods\AdditionalLighting\Source\AdditionalLighting\bin\Debug\Assembly-CSharp.dll
+C:\Users\mjsku\Desktop\RimWorldAlpha14eWin\RimWorld1249Win\Mods\AdditionalLighting\Source\AdditionalLighting\bin\Debug\UnityEngine.dll
+C:\Users\mjsku\Desktop\RimWorldAlpha14eWin\RimWorld1249Win\Mods\AdditionalLighting\Source\AdditionalLighting\bin\Debug\Assembly-CSharp-firstpass.dll
+C:\Users\mjsku\Desktop\RimWorldAlpha14eWin\RimWorld1249Win\Mods\AdditionalLighting\Source\AdditionalLighting\bin\Debug\NAudio.dll
+C:\Users\mjsku\Desktop\RimWorldAlpha14eWin\RimWorld1249Win\Mods\AdditionalLighting\Source\AdditionalLighting\bin\Debug\NVorbis.dll
+C:\Users\mjsku\Desktop\RimWorldAlpha14eWin\RimWorld1249Win\Mods\AdditionalLighting\Source\AdditionalLighting\obj\Debug\AdditionalLighting.csprojResolveAssemblyReference.cache
+C:\Users\mjsku\Desktop\RimWorldAlpha14eWin\RimWorld1249Win\Mods\AdditionalLighting\Source\AdditionalLighting\obj\Debug\AddiitionalLighting.dll
+C:\Users\mjsku\Desktop\RimWorldAlpha14eWin\RimWorld1249Win\Mods\AdditionalLighting\Source\AdditionalLighting\obj\Debug\AddiitionalLighting.pdb
+C:\Users\mjsku\Desktop\RimWorldAlpha14eWin\RimWorld1249Win\Mods\AdditionalLighting\Source\AdditionalLighting\bin\Debug\Community Core Library.dll

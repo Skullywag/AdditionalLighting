@@ -2,7 +2,7 @@
 <ModMetaData>
 	<name>AdditionalLighting</name>
 	<author>Skullywag</author>
-	<targetVersion>0.14.1234</targetVersion>
+	<targetVersion>0.14.1249</targetVersion>
 	<description>Adds some additonal light sources.
   
   Requires CCL for coloured Lights.</description>

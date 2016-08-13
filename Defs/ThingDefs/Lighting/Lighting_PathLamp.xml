@@ -30,6 +30,7 @@
     <leaveResourcesWhenKilled>false</leaveResourcesWhenKilled>
     <comps>
       <li Class="CompProperties_Glower">
+        <compClass>CommunityCoreLibrary.CompGlowerToggleable</compClass>
         <glowRadius>5</glowRadius>
         <glowColor>(217,217,208,0)</glowColor>
       </li>

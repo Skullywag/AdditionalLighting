@@ -3,6 +3,8 @@ using System.Text;
 using UnityEngine;
 using Verse;
 using RimWorld;
+using CommunityCoreLibrary;
+
 namespace AdditionalLighting
 {
     public class Building_PathLamp : Building
@@ -17,25 +19,28 @@ namespace AdditionalLighting
         public override void TickRare()
         {
             base.TickRare();
-            if(SkyManager.CurSkyGlow >= 0.6f)
+            if (!Find.RoofGrid.Roofed(this.Position))
             {
-                energy += 250m;
-                if(energy >= 14000m)
+                if (SkyManager.CurSkyGlow >= 0.6f)
                 {
-                    energy = 14000m;
+                    energy += 250m;
+                    if (energy >= 14000m)
+                    {
+                        energy = 14000m;
+                    }
+                    this.GetComp<CompGlowerToggleable>().Lit = false;
                 }
-                this.GetComp<CompGlower>().ReceiveCompSignal("PowerTurnedOff");
-            }
-            else
-            {
-                energy -= 250m;
-                if(energy <= 0m)
+                else
                 {
-                    energy = 0m;
-                    this.GetComp<CompGlower>().ReceiveCompSignal("PowerTurnedOff");
-                    return;
+                    energy -= 250m;
+                    if (energy <= 0m)
+                    {
+                        energy = 0m;
+                        this.GetComp<CompGlowerToggleable>().Lit = false;
+                        return;
+                    }
+                    this.GetComp<CompGlowerToggleable>().Lit = true;
                 }
-                this.GetComp<CompGlower>().ReceiveCompSignal("PowerTurnedOn");
             }
         }
 
