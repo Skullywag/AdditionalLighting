@@ -50,6 +50,7 @@
         <glowRadius>12</glowRadius>
         <glowColor>(217,217,208,0)</glowColor>
       </li>
+      <li Class="CompProperties_Flickable" />
     </comps>
     <building>
       <isEdifice>false</isEdifice>

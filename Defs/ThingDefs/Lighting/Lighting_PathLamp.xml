@@ -37,6 +37,7 @@
       <li Class="CommunityCoreLibrary.CompProperties_ColoredLight">
         <compClass>CommunityCoreLibrary.CompColoredLight</compClass>
       </li>
+      <li Class="CompProperties_Flickable" />
     </comps>
     <designationCategory>Furniture</designationCategory>
     <rotatable>false</rotatable>

@@ -42,6 +42,7 @@
       <li Class="CommunityCoreLibrary.CompProperties_ColoredLight">
         <compClass>CommunityCoreLibrary.CompColoredLight</compClass>
       </li>
+      <li Class="CompProperties_Flickable" />
     </comps>
     <building>
       <canPlaceOverWall>true</canPlaceOverWall>
