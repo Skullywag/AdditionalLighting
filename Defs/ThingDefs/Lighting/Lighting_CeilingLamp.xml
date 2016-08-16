@@ -55,7 +55,7 @@
     <building>
       <isEdifice>false</isEdifice>
     </building>
-     <minifiedDef>MinifiedFurniture</minifiedDef>
+    <minifiedDef>MinifiedFurniture</minifiedDef>
     <designationCategory>Furniture</designationCategory>
     <rotatable>false</rotatable>
   </ThingDef>
