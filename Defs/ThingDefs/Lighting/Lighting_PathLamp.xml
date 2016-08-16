@@ -39,6 +39,7 @@
       </li>
       <li Class="CompProperties_Flickable" />
     </comps>
+    <minifiedDef>MinifiedFurniture</minifiedDef>
     <designationCategory>Furniture</designationCategory>
     <rotatable>false</rotatable>
     <placeWorkers>
