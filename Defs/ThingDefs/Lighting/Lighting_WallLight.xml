@@ -48,6 +48,7 @@
       <canPlaceOverWall>true</canPlaceOverWall>
       <isEdifice>false</isEdifice>
     </building>
+    <minifiedDef>MinifiedFurniture</minifiedDef>
     <designationCategory>Furniture</designationCategory>    
     <rotatable>true</rotatable>
   </ThingDef>
