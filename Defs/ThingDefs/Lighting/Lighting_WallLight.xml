@@ -18,7 +18,7 @@
     <passability>PassThroughOnly</passability>
     <statBases>
       <MaxHitPoints>100</MaxHitPoints>
-      <WorkToMake>150</WorkToMake>
+      <WorkToBuild>150</WorkToBuild>
       <Flammability>1.0</Flammability>
       <Beauty>5</Beauty>
     </statBases>
@@ -33,14 +33,11 @@
     <comps>
       <li Class="CompProperties_Power">
         <compClass>CompPowerTrader</compClass>
-        <basePowerConsumption>50</basePowerConsumption>
+        <basePowerConsumption>5</basePowerConsumption>
       </li>
       <li Class="CompProperties_Glower">
         <glowRadius>8</glowRadius>
         <glowColor>(217,217,208,0)</glowColor>
-      </li>
-      <li Class="CommunityCoreLibrary.CompProperties_ColoredLight">
-        <compClass>CommunityCoreLibrary.CompColoredLight</compClass>
       </li>
       <li Class="CompProperties_Flickable" />
     </comps>

@@ -16,7 +16,7 @@
     <passability>PassThroughOnly</passability>
     <statBases>
       <MaxHitPoints>10</MaxHitPoints>
-      <WorkToMake>50</WorkToMake>
+      <WorkToBuild>50</WorkToBuild>
       <Flammability>1.0</Flammability>
       <Beauty>5</Beauty>
     </statBases>
@@ -30,12 +30,8 @@
     <leaveResourcesWhenKilled>false</leaveResourcesWhenKilled>
     <comps>
       <li Class="CompProperties_Glower">
-        <compClass>CommunityCoreLibrary.CompGlowerToggleable</compClass>
         <glowRadius>5</glowRadius>
         <glowColor>(217,217,208,0)</glowColor>
-      </li>
-      <li Class="CommunityCoreLibrary.CompProperties_ColoredLight">
-        <compClass>CommunityCoreLibrary.CompColoredLight</compClass>
       </li>
       <li Class="CompProperties_Flickable" />
     </comps>

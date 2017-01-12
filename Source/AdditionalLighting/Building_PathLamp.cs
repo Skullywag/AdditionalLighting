@@ -3,7 +3,6 @@ using System.Text;
 using UnityEngine;
 using Verse;
 using RimWorld;
-using CommunityCoreLibrary;
 
 namespace AdditionalLighting
 {
@@ -11,24 +10,24 @@ namespace AdditionalLighting
     {
         public decimal energy = 0m;
 
-        public override void SpawnSetup()
+        public override void SpawnSetup(Map map)
         {
-            base.SpawnSetup();
+            base.SpawnSetup(map);
         }
 
         public override void TickRare()
         {
             base.TickRare();
-            if (!Find.RoofGrid.Roofed(this.Position))
+            if (!this.Map.roofGrid.Roofed(Position))
             {
-                if (SkyManager.CurSkyGlow >= 0.6f)
+                if (this.Map.skyManager.CurSkyGlow >= 0.6f)
                 {
                     energy += 250m;
                     if (energy >= 14000m)
                     {
                         energy = 14000m;
                     }
-                    this.GetComp<CompGlowerToggleable>().Lit = false;
+                    //this.GetComp<CompGlowerToggleable>().Lit = false;
                 }
                 else
                 {
@@ -36,10 +35,10 @@ namespace AdditionalLighting
                     if (energy <= 0m)
                     {
                         energy = 0m;
-                        this.GetComp<CompGlowerToggleable>().Lit = false;
+                        //this.GetComp<CompGlowerToggleable>().Lit = false;
                         return;
                     }
-                    this.GetComp<CompGlowerToggleable>().Lit = true;
+                    //this.GetComp<CompGlowerToggleable>().Lit = true;
                 }
             }
         }

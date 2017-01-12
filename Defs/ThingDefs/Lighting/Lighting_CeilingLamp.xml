@@ -29,7 +29,7 @@
     <passability>PassThroughOnly</passability>
     <statBases>
       <MaxHitPoints>50</MaxHitPoints>
-      <WorkToMake>115</WorkToMake>
+      <WorkToBuild>115</WorkToBuild>
       <Flammability>1.0</Flammability>
       <Beauty>5</Beauty>
     </statBases>
@@ -44,7 +44,7 @@
     <comps>
       <li Class="CompProperties_Power">
         <compClass>CompPowerTrader</compClass>
-        <basePowerConsumption>150</basePowerConsumption>
+        <basePowerConsumption>10</basePowerConsumption>
       </li>
       <li Class="CompProperties_Glower">
         <glowRadius>12</glowRadius>

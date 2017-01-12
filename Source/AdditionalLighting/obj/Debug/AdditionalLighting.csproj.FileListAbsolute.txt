@@ -44,3 +44,44 @@ C:\Users\mjsku\Desktop\RimWorldAlpha14eWin\RimWorld1249Win\Mods\AdditionalLighti
 C:\Users\mjsku\Desktop\RimWorldAlpha14eWin\RimWorld1249Win\Mods\AdditionalLighting\Source\AdditionalLighting\obj\Debug\AddiitionalLighting.dll
 C:\Users\mjsku\Desktop\RimWorldAlpha14eWin\RimWorld1249Win\Mods\AdditionalLighting\Source\AdditionalLighting\obj\Debug\AddiitionalLighting.pdb
 C:\Users\mjsku\Desktop\RimWorldAlpha14eWin\RimWorld1249Win\Mods\AdditionalLighting\Source\AdditionalLighting\bin\Debug\Community Core Library.dll
+C:\Users\mjsku\Desktop\RimWorldAlpha15Win\RimWorld1279Win\Mods\AdditionalLighting\Source\AdditionalLighting\bin\Debug\AddiitionalLighting.dll
+C:\Users\mjsku\Desktop\RimWorldAlpha15Win\RimWorld1279Win\Mods\AdditionalLighting\Source\AdditionalLighting\bin\Debug\AddiitionalLighting.pdb
+C:\Users\mjsku\Desktop\RimWorldAlpha15Win\RimWorld1279Win\Mods\AdditionalLighting\Source\AdditionalLighting\bin\Debug\Assembly-CSharp.dll
+C:\Users\mjsku\Desktop\RimWorldAlpha15Win\RimWorld1279Win\Mods\AdditionalLighting\Source\AdditionalLighting\bin\Debug\UnityEngine.dll
+C:\Users\mjsku\Desktop\RimWorldAlpha15Win\RimWorld1279Win\Mods\AdditionalLighting\Source\AdditionalLighting\bin\Debug\Assembly-CSharp-firstpass.dll
+C:\Users\mjsku\Desktop\RimWorldAlpha15Win\RimWorld1279Win\Mods\AdditionalLighting\Source\AdditionalLighting\bin\Debug\NAudio.dll
+C:\Users\mjsku\Desktop\RimWorldAlpha15Win\RimWorld1279Win\Mods\AdditionalLighting\Source\AdditionalLighting\bin\Debug\NVorbis.dll
+C:\Users\mjsku\Desktop\RimWorldAlpha15Win\RimWorld1279Win\Mods\AdditionalLighting\Source\AdditionalLighting\obj\Debug\AdditionalLighting.csprojResolveAssemblyReference.cache
+C:\Users\mjsku\Desktop\RimWorldAlpha15Win\RimWorld1279Win\Mods\AdditionalLighting\Source\AdditionalLighting\obj\Debug\AddiitionalLighting.dll
+C:\Users\mjsku\Desktop\RimWorldAlpha15Win\RimWorld1279Win\Mods\AdditionalLighting\Source\AdditionalLighting\obj\Debug\AddiitionalLighting.pdb
+C:\Users\mjsku\Desktop\RimWorldAlpha15cWin\RimWorld1284Win\Mods\AdditionalLighting\Source\AdditionalLighting\bin\Debug\AddiitionalLighting.dll
+C:\Users\mjsku\Desktop\RimWorldAlpha15cWin\RimWorld1284Win\Mods\AdditionalLighting\Source\AdditionalLighting\bin\Debug\AddiitionalLighting.pdb
+C:\Users\mjsku\Desktop\RimWorldAlpha15cWin\RimWorld1284Win\Mods\AdditionalLighting\Source\AdditionalLighting\bin\Debug\Assembly-CSharp.dll
+C:\Users\mjsku\Desktop\RimWorldAlpha15cWin\RimWorld1284Win\Mods\AdditionalLighting\Source\AdditionalLighting\bin\Debug\UnityEngine.dll
+C:\Users\mjsku\Desktop\RimWorldAlpha15cWin\RimWorld1284Win\Mods\AdditionalLighting\Source\AdditionalLighting\bin\Debug\Assembly-CSharp-firstpass.dll
+C:\Users\mjsku\Desktop\RimWorldAlpha15cWin\RimWorld1284Win\Mods\AdditionalLighting\Source\AdditionalLighting\bin\Debug\NAudio.dll
+C:\Users\mjsku\Desktop\RimWorldAlpha15cWin\RimWorld1284Win\Mods\AdditionalLighting\Source\AdditionalLighting\bin\Debug\NVorbis.dll
+C:\Users\mjsku\Desktop\RimWorldAlpha15cWin\RimWorld1284Win\Mods\AdditionalLighting\Source\AdditionalLighting\obj\Debug\AdditionalLighting.csprojResolveAssemblyReference.cache
+C:\Users\mjsku\Desktop\RimWorldAlpha15cWin\RimWorld1284Win\Mods\AdditionalLighting\Source\AdditionalLighting\obj\Debug\AddiitionalLighting.dll
+C:\Users\mjsku\Desktop\RimWorldAlpha15cWin\RimWorld1284Win\Mods\AdditionalLighting\Source\AdditionalLighting\obj\Debug\AddiitionalLighting.pdb
+C:\Users\mjsku\Desktop\RimWorldAlpha15cWin\RimWorld1284Win\Mods\AdditionalLighting - A15c - Waiting CCL for colours\Source\AdditionalLighting\bin\Debug\AddiitionalLighting.dll
+C:\Users\mjsku\Desktop\RimWorldAlpha15cWin\RimWorld1284Win\Mods\AdditionalLighting - A15c - Waiting CCL for colours\Source\AdditionalLighting\bin\Debug\AddiitionalLighting.pdb
+C:\Users\mjsku\Desktop\RimWorldAlpha15cWin\RimWorld1284Win\Mods\AdditionalLighting - A15c - Waiting CCL for colours\Source\AdditionalLighting\bin\Debug\Assembly-CSharp.dll
+C:\Users\mjsku\Desktop\RimWorldAlpha15cWin\RimWorld1284Win\Mods\AdditionalLighting - A15c - Waiting CCL for colours\Source\AdditionalLighting\bin\Debug\UnityEngine.dll
+C:\Users\mjsku\Desktop\RimWorldAlpha15cWin\RimWorld1284Win\Mods\AdditionalLighting - A15c - Waiting CCL for colours\Source\AdditionalLighting\bin\Debug\Assembly-CSharp-firstpass.dll
+C:\Users\mjsku\Desktop\RimWorldAlpha15cWin\RimWorld1284Win\Mods\AdditionalLighting - A15c - Waiting CCL for colours\Source\AdditionalLighting\bin\Debug\NAudio.dll
+C:\Users\mjsku\Desktop\RimWorldAlpha15cWin\RimWorld1284Win\Mods\AdditionalLighting - A15c - Waiting CCL for colours\Source\AdditionalLighting\bin\Debug\NVorbis.dll
+C:\Users\mjsku\Desktop\RimWorldAlpha15cWin\RimWorld1284Win\Mods\AdditionalLighting - A15c - Waiting CCL for colours\Source\AdditionalLighting\obj\Debug\AdditionalLighting.csprojResolveAssemblyReference.cache
+C:\Users\mjsku\Desktop\RimWorldAlpha15cWin\RimWorld1284Win\Mods\AdditionalLighting - A15c - Waiting CCL for colours\Source\AdditionalLighting\obj\Debug\AddiitionalLighting.dll
+C:\Users\mjsku\Desktop\RimWorldAlpha15cWin\RimWorld1284Win\Mods\AdditionalLighting - A15c - Waiting CCL for colours\Source\AdditionalLighting\obj\Debug\AddiitionalLighting.pdb
+C:\Program Files (x86)\Steam\steamapps\common\RimWorld\Mods\AdditionalLighting-A16\Source\AdditionalLighting\bin\Debug\AddiitionalLighting.dll
+C:\Program Files (x86)\Steam\steamapps\common\RimWorld\Mods\AdditionalLighting-A16\Source\AdditionalLighting\bin\Debug\AddiitionalLighting.pdb
+C:\Program Files (x86)\Steam\steamapps\common\RimWorld\Mods\AdditionalLighting-A16\Source\AdditionalLighting\bin\Debug\Assembly-CSharp.dll
+C:\Program Files (x86)\Steam\steamapps\common\RimWorld\Mods\AdditionalLighting-A16\Source\AdditionalLighting\bin\Debug\UnityEngine.dll
+C:\Program Files (x86)\Steam\steamapps\common\RimWorld\Mods\AdditionalLighting-A16\Source\AdditionalLighting\bin\Debug\Assembly-CSharp-firstpass.dll
+C:\Program Files (x86)\Steam\steamapps\common\RimWorld\Mods\AdditionalLighting-A16\Source\AdditionalLighting\bin\Debug\NAudio.dll
+C:\Program Files (x86)\Steam\steamapps\common\RimWorld\Mods\AdditionalLighting-A16\Source\AdditionalLighting\bin\Debug\NVorbis.dll
+C:\Program Files (x86)\Steam\steamapps\common\RimWorld\Mods\AdditionalLighting-A16\Source\AdditionalLighting\bin\Debug\UnityEngine.xml
+C:\Program Files (x86)\Steam\steamapps\common\RimWorld\Mods\AdditionalLighting-A16\Source\AdditionalLighting\obj\Debug\AdditionalLighting.csprojResolveAssemblyReference.cache
+C:\Program Files (x86)\Steam\steamapps\common\RimWorld\Mods\AdditionalLighting-A16\Source\AdditionalLighting\obj\Debug\AddiitionalLighting.dll
+C:\Program Files (x86)\Steam\steamapps\common\RimWorld\Mods\AdditionalLighting-A16\Source\AdditionalLighting\obj\Debug\AddiitionalLighting.pdb
